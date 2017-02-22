@@ -16,7 +16,7 @@ npm start
 ,or you want to run it in production mode, run
 
 ```bash
-npm build
+npm run build
 ```
 
 For the test mode,run
